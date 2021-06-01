@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hypech.case10_tab_fragment_viewpager">
+    package="com.hypech.case13_tab_fragment_viewpager">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Case12_Tab_Fragment_ViewPager">
-        <activity android:name="com.hypech.case10_tab_fragment_viewpager.MainActivity">
+        <activity android:name="com.hypech.case13_tab_fragment_viewpager.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

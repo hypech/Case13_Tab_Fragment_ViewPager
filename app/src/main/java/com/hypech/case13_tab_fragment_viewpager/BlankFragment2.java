@@ -1,4 +1,4 @@
-package com.hypech.case10_tab_fragment_viewpager;
+package com.hypech.case13_tab_fragment_viewpager;
 
 import android.os.Bundle;
 
